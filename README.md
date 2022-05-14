@@ -1,6 +1,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Constani/vaniply/main/showcase.gif">
+  
 # Vaniply
 
   <a href="https://www.codefactor.io/repository/github/constani/vaniply"><img alt="CodeFactor Grade" src="https://www.codefactor.io/repository/github/constani/vaniply/badge"></a>
