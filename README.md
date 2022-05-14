@@ -17,6 +17,7 @@ Just clone the repository and open a terminal in the repository folder then type
 # Note
 
 `You have to install ffmpeg and add it to your path otherwise this program won't work!`
+
 This program uses too much CPU power. If your computer's CPU is slow the program will be slow as well
 
 
