@@ -7,7 +7,7 @@
   <a href="https://www.codefactor.io/repository/github/constani/vaniply"><img alt="CodeFactor Grade" src="https://www.codefactor.io/repository/github/constani/vaniply/badge"></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Constani/vaniply">
 
-**Compress tool to compress videos using H264 and VP9 algorithms**
+**Compress tool to compress videos and audios using H264,VP9 and Vorbis algorithms**
 
 </div>
 
