@@ -56,7 +56,7 @@ module.exports = {
    arr = ["-i", input, "-c:v", "libvpx-vp9", "-c:a", "libopus", output]
   } else if(mode.toLowerCase() == "h264") {
    arr = [`-i`, input, `-c:v`, `libx264`, `-preset`, `slow`, `-crf`, `22`, `-c:a`, `copy`, output]
-  } else if(mode.toLowerCase() == "orbis") {
+  } else if(mode.toLowerCase() == "vorbis") {
    arr = [`-i`, input, `-c:a`, `libvorbis`, `-q:a`, `4`, output]
    audioFile = true
   }
