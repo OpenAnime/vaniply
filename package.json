@@ -1,8 +1,8 @@
 {
   "name": "vaniply",
   "version": "1.0.0",
-  "description": "Video compress program that uses H264 algorithm and ffmpeg to compress anime videos",
-  "main": "videoCodec.js",
+  "description": "Compress program that uses H264,VP9 and Vorbis algorithms with ffmpeg to compress anime videos and audios",
+  "main": "Codec.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
