@@ -26,8 +26,7 @@ This program uses too much CPU power. If your computer's CPU is slow the program
 <table>
   <tr>
         <td align="center"><a href="https://spongebed.me"><img src="https://avatars.githubusercontent.com/u/56435044?v=4" width="100px;" alt=""/><br /><sub>          <b>SpongeBed</b></sub></a><br /> <a href="https://github.com/Constani/vaniply/commits?author=SpongeBed81" title="Code">💻</a></td>
-    </tr>
-  <tr>
-        <td align="center"><a href="https://endew.please-lick.me"><img src="https://avatars.githubusercontent.com/u/88934866?v=4" width="100px;" alt=""/><br /><sub>          <b>SpongeBed</b></sub></a><br /> <a href="https://github.com/Constani/vaniply/commits?author=endews" title="Code">💻</a></td>
+    
+    <td align="center"><a href="https://endew.please-lick.me"><img src="https://avatars.githubusercontent.com/u/88934866?v=4" width="100px;" alt=""/><br /><sub>
     </tr>
 </table>
