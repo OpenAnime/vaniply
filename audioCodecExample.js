@@ -1,5 +1,5 @@
 const codecAPI = require("./Codec")
 
-codecAPI.codec("input.mp3", "output.ogg", "vorbis").then(() => {
+codecAPI.codec("input.mp3", "output.mp3", "h265").then(() => {
  console.log("YES")
 })
