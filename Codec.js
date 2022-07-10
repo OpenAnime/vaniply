@@ -20,6 +20,8 @@ module.exports = {
     } else if (mode.toLowerCase() == "vorbis") {
       arr = [`-i`, input, `-c:a`, `libvorbis`, `-q:a`, `4`, output]
       audioFile = true
+    } else if (mode.toLowerCase() == "h265") {
+      arr = [`-i`, input, `-c:v`, `libx265`, `-preset`, `slow`, `-crf`, `22`, `-c:a`, `copy`, output]
     }
     return new Promise((resolve) => {
       const {
